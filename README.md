@@ -1,10 +1,17 @@
 # base67converter
 As it sounds, an API that converts decimal to base 67 and vice versa
 
-### Dependencies:
+### Libraries Used:
 - std::string
 - std::map
 - std::iostream
+- std::vector
+- std::algorithm
+
+### ASCII Art sources:
+- https://www.asciiart.eu/cartoons/spongebob-squarepants
+- https://texteditor.com/text-faces/
+- https://www.asciiart.eu/cartoons/simpsons
 
 ## Run instructions:
 - If you do not want to recompile the project, you can simply run the provided `b67converter` binary in your terminal via `./b67converter`
