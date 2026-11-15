@@ -12,6 +12,7 @@ As it sounds, an API that converts decimal to base 67 and vice versa
 - https://www.asciiart.eu/cartoons/spongebob-squarepants
 - https://texteditor.com/text-faces/
 - https://www.asciiart.eu/cartoons/simpsons
+- https://emojicombos.com/meme-ascii-art
 
 ## Run instructions:
 - If you do not want to recompile the project, you can simply run the provided `b67converter` binary in your terminal via `./b67converter`
