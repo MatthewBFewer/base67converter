@@ -3,13 +3,15 @@
 #include <string>
 #include <map>
 
+using namespace std;
+
 /* 
     mappings of decimal numbers 0-67 to special characters 
     0-9 maps to 0-9 respectively,
     10-35 maps to lowercase single character strings a-z
-    36-67 maps to more "abstract" multi-character strings
+    36-67 maps to more "abstract" multi-character strings i.e. ( ͡° ͜ʖ ͡°) (lenny face)
 */
-std::map<int,string> b67mappings = {
+map<int,string> b67mappings = {
     {10,"a"},
     {11,"b"},
     {12,"c"},

@@ -1,8 +1,6 @@
 #include "b67converter.h"
 #include <iostream>
 
-using namespace std;
-
 int main() {
 
     string input;
