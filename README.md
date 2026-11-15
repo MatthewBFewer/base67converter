@@ -1,6 +1,6 @@
 # base67converter
-As it sounds, an API that converts decimal to base 67 and vice versa
-
+- As it sounds, an API that converts decimal to base 67 (results may suprise you)
+- Built for stupid ideas hackathon (Ottawa F26)
 ### Libraries Used:
 - std::string
 - std::map
